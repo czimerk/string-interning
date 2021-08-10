@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringInterning", "StringInterning\StringInterning.csproj", "{8F0F6B8D-7E74-4DEC-8F5D-96A17D0D8FDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F0F6B8D-7E74-4DEC-8F5D-96A17D0D8FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F0F6B8D-7E74-4DEC-8F5D-96A17D0D8FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F0F6B8D-7E74-4DEC-8F5D-96A17D0D8FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F0F6B8D-7E74-4DEC-8F5D-96A17D0D8FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116AA4D1-92A2-40E3-BDA4-967ABA9ED770}
+	EndGlobalSection
+EndGlobal
